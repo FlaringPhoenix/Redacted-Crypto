@@ -1,4 +1,5 @@
 # Redacted-Crypto
+![](https://img.shields.io/github/stars/BlueFox-Development/Redacted-Crypto) ![](https://img.shields.io/github/forks/BlueFox-Development/Redacted-Crypto) ![](https://img.shields.io/github/issues/BlueFox-Development/Redacted-Crypto) ![](https://img.shields.io/github/license/BlueFox-Development/Redacted-Crypto) ![](https://img.shields.io/discord/870418236078960791)
 
 # About
 Redacted-Crypto is a nice, simple, and clean NPM package that everyone can use. You can use it to track crypto currency trades from markets like binance.
