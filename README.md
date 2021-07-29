@@ -22,9 +22,6 @@ npm i redacted-crypto
 ```javascript
 const Status = require('redacted-crypto');
 
-const port = 3000;
-const debug = false;
-
 let BTC = new RedactedCrypto.Watcher('BTCUSDT', 'BTC', 'USDT', 'binance');
 
 BTC.on('trade', (trade) => {
