@@ -3,6 +3,16 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BlueFox-Development/Redacted-Crypto.git"
+  },
+  "scripts": {
+    "test": "node ./tests"
+  },
+  "author": "FlaringPhoenix <flaringphoenix@bluefoxhost.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/BlueFox-Development/Redacted-Crypto#readme",
   "dependencies": {
     "body-parser": "^1.19.0",
     "ccxws": "^0.43.1",
@@ -16,10 +26,5 @@
     "method-override": "^3.0.0",
     "morgan": "^1.10.0"
   },
-  "devDependencies": {},
-  "scripts": {
-    "test": "node ./tests"
-  },
-  "author": "Josh Eubanks",
-  "license": "MIT"
+  "devDependencies": {}
 }
