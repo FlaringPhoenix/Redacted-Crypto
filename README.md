@@ -20,7 +20,7 @@ npm i redacted-crypto
 
 ### Basic Usage:
 ```javascript
-const Status = require('redacted-crypto');
+const RedactedCrypto = require('redacted-crypto');
 
 let BTC = new RedactedCrypto.Watcher('BTCUSDT', 'BTC', 'USDT', 'binance');
 
@@ -31,7 +31,7 @@ BTC.on('trade', (trade) => {
 
 ### Advanced Usage:
 ```javascript
-const Status = require('redacted-crypto');
+const RedactedCrypto = require('redacted-crypto');
 
 const port = 3000;
 const debug = false;
