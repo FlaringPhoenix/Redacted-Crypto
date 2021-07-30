@@ -44,6 +44,10 @@ let ETH = new RedactedCrypto.Watcher('ETHUSDT', 'ETH', 'USDT', 'binance');
 // Starts Rest API
 let client = new RedactedCrypto.Client([BTC, ETH], port, debug, ratelimit);
 ```
+# Support
+Need some help setting up Redacted-Crypto, or have any questions or concerns? 
+Join BlueFox Development's Discord
+> [https://discord.gg/KHbBfWSdnZ](https://discord.gg/KHbBfWSdnZ)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
